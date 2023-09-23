@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <div class="header">
-        <a href="https://foxhole.wiki.gg/wiki/Factions#/media/File:Colonial.png" target="_blank">
+        <a href="https://foxhole.wiki.gg/wiki/Factions#/" target="_blank">
           <img src="./src/assets/667px-ColonialFlag.webp" className="flag"/>
         </a>
         <h1>Colonial Tank Index</h1>
