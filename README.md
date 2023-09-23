@@ -28,7 +28,7 @@ Here's a walkthrough of implemented required features:
 
 <img src='http://i.imgur.com/a/fhkePYr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-![](http://i.imgur.com/a/fhkePYr.gif)
+http://i.imgur.com/a/fhkePYr.gif
 
 GIF created with ...  
 OBS and cloudconvert.com
