@@ -26,14 +26,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<!-- <img src='http://i.imgur.com/a/qtYDjQ4.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
+<img src='http://i.imgur.com/a/fhkePYr.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<video controls>
-  <source src="http://i.imgur.com/a/qtYDjQ4.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-http://i.imgur.com/a/qtYDjQ4.mp4
+![](http://i.imgur.com/a/fhkePYr.gif)
 
 GIF created with ...  
 OBS and cloudconvert.com
